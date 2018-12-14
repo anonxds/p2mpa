@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p2mpa</string>
+    <string name="previous_button">Anterior</string>
+
+    <string name="Previous_button">Previo</string>
+    <string name="Next_button">Siguiente</string>
+</resources>
